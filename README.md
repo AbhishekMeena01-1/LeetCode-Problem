@@ -30,5 +30,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
