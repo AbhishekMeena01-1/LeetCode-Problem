@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
