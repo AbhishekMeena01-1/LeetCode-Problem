@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0113-path-sum-ii) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0113-path-sum-ii) |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
