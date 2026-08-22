@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0078-subsets) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0078-subsets) |
@@ -196,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
