@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
