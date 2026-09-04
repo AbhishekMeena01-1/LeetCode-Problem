@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0226-invert-binary-tree) |
+| [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -252,5 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
