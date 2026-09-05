@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
+| [0997-find-the-town-judge](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
