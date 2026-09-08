@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
@@ -273,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0743-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
