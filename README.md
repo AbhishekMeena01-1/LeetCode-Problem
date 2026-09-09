@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
