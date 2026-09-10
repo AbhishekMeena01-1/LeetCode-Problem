@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -278,10 +279,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
