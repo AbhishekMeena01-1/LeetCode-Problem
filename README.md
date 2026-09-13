@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -296,8 +299,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
