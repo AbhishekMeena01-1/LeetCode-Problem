@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
+| [1143-longest-common-subsequence](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
