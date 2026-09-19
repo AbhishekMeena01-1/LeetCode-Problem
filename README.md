@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0090-subsets-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 ## Knapsack Problem
 |  |
