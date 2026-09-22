@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
