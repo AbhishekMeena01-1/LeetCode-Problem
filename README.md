@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3280-convert-date-to-binary](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3280-convert-date-to-binary) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3280-convert-date-to-binary](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
