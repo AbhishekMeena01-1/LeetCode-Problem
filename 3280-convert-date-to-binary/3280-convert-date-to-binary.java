@@ -1,0 +1,23 @@
+class Solution {
+    public String convertDateToBinary(String date) {
+        String part[]  = date.split("-");
+        int year=Integer.parseInt(part[0]);
+        int month=Integer.parseInt(part[1]);
+        int day=Integer.parseInt(part[2]);
+
+        String y=binary(year);
+        String m=binary(month);
+        String d=binary(day);
+
+        return y+"-"+m+"-"+d;
+    }
+    public String binary(int n){
+        String bin="";
+        while(n>0){
+            int num=n%2;
+            bin=num+bin;
+            n/=2;
+        }
+        return bin;
+    }
+}
