@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0344-reverse-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0070-climbing-stairs) |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
