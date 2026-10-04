@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -368,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
