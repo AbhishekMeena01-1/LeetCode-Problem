@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0856-score-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -373,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
