@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0344-reverse-string) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0055-jump-game) |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
