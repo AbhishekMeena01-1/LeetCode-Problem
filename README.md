@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
