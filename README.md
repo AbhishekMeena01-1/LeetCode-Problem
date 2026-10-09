@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
