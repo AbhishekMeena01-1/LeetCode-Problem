@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
