@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3280-convert-date-to-binary) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2965-find-missing-and-repeated-values](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/2965-find-missing-and-repeated-values) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -394,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AbhishekMeena01-1/LeetCode-Problem/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
